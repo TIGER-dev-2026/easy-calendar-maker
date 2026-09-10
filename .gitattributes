@@ -1,0 +1,7 @@
+*.min.css linguist-generated
+public/** linguist-vendored
+*.sh text eol=lf
+*.rs linguist-detectable
+yarn.lock linguist-generated
+
+# eof 9d1b6d21
